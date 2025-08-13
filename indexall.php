@@ -17719,7 +17719,7 @@ $listingHTMLstring
 
 <!-- THIS FOOTER MUST NOT BE CANCELLED -->
 <font face=Verdana, Arial, Helvetica, sans-serif size=1><br>*  **  ****  **  *<br>".$ver."<br>
-indexall script author's <a href=\"mailto:andreas.fortino@gmail.com\">mail</a> and <a href=\"https://www.andreafortino.com\" target=_blank>website</a><br>
+indexall script author's <a href=\"mailto:andreas.fortino@gmail.com\">mail</a> and <a href=\"https://tapni.com/andreafortino\" target=_blank>website</a><br>
 
 <a href=\"https://github.com/andreafortino/indexall\" target=_blank>php source</a> under <a href=\"http://www.gnu.org/licenses/gpl-2.0.html\" target=_blank>GPL license</a><br>
 based on <a href=\"https://lophty.com/\" target=_blank>lophty directory indexer</a> code<br>
