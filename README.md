@@ -1,6 +1,6 @@
 # indexall
-Files indexer written into just-one-php-file
+Apache webserver directory listing (in a "on-steroids" way :-)
 
 INSTRUCTIONS
-1. Copy "indexall.php" into the PATH you want to (start to) index (sub)files and (sub)directories.
-2. ENJOY the parsing :-)
+1. Copy "indexall.php" file into the PATH you want to (start to) the indexing of (sub)files and (sub)directories;
+2. ENJOY :-)
